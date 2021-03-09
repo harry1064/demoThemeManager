@@ -12,10 +12,10 @@
       "alpha": 1.00
     },
     "Background-light": {
-      "red": 0.929,
-      "green": 0.945,
-      "blue": 0.949,
-      "alpha": 1.00
+        "red": 0.863,
+        "green": 0.208,
+        "blue": 0.271,
+        "alpha": 1.00
     },
     "Background-dark": {
       "red": 0.090,
