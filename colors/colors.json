@@ -4,5 +4,11 @@
         "green": 0.208,
         "blue": 0.271,
         "alpha": 1.00
-    }
+    },
+    "Background-light": {
+        "red": 0.090,
+        "green": 0.141,
+        "blue": 0.427,
+        "alpha": 1.00
+    },
 }
